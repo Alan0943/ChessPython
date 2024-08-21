@@ -105,7 +105,6 @@ def legal_moves():
     pass
 
 
-
 first_col = None
 first_row = None
 glow_col = None
